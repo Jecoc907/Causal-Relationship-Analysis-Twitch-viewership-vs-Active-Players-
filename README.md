@@ -221,3 +221,20 @@ Another area for improvement is the development of more complex and accurate mod
 Additionally, we recognize the need for more in-depth game information, including updates and features, to understand the impact of these elements on viewership. Analyzing the specific features and updates that drive player engagement and viewership can provide actionable insights for game developers. Furthermore, a detailed study of between-game discrepancies would help us understand why Twitch has a more significant causal influence on some games compared to others. Identifying these differences can help tailor marketing strategies to the unique dynamics of each game.
 
 In conclusion, addressing these limitations would significantly enhance the robustness of our findings. By conducting true experiments for causal inference, gathering more behavioral and demographic data, developing more complex models, and conducting in-depth studies on game-specific factors and between-game discrepancies, we can gain a more comprehensive understanding of the relationship between Twitch viewership and player engagement. These improvements would allow us to provide more actionable recommendations for game developers and marketers, ultimately leading to more effective strategies and better gaming experiences.
+
+## Reference
+
+Ahmad, W., Shadaydeh, M., & Denzler, J. (2022). Causal discovery using model invariance through knockoff interventions. In Proceedings of the ICML 2022 Workshop on Spurious Correlations, Invariance, and Stability, Baltimore, Maryland, USA. arXiv:2207.04055. https://doi.org/10.48550/arXiv.2207.04055
+
+Runge, J. (n.d.). Tigramite: Python package for causal inference in time series. GitHub. Retrieved July 12, 2024, from https://github.com/jakobrunge/tigramite
+
+Via, D. (2024, June 28). Siege reaches its highest player peak on Steam in almost three years. SiegeGG. https://siege.gg/news/siege-reaches-its-highest-player-peak-on-steam-in-almost-three-years 
+
+## Contributors
+Chun Yat Cheung\
+Ethan Liu\
+Sherry Shi
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
